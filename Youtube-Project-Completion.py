@@ -590,7 +590,7 @@ def execute_analysis(selected_option):
                 COUNT(CM.comment_id) AS Number_of_Comments
             FROM
                 Video_Details AS VD
-            JOINc
+            JOIN
                 Playlist AS PL ON VD.vid = PL.videoid
             JOIN
                 Channel AS CH ON PL.chid = CH.id
