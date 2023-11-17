@@ -1,6 +1,7 @@
 # YoutubeAPI-MongoDB-MySQL-Streamlit
 
 Project that combines the YouTube API, MongoDB, MySQL, and Streamlit to analyze and visualize YouTube data.
+Demo Video: https://youtu.be/vgz4Z67ZZhA
 A brief overview about steps that were done for the project:
 
 	Step 1: Imports necessary libraries, including Streamlit, pymongo, googleapiclient, pandas, and mysql.connector.
